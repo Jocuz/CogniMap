@@ -1,1 +1,1 @@
-# Poincar
+# CogniMap
